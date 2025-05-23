@@ -1,0 +1,11 @@
+Model Information:
+* title:	Adidas Ozelia
+* source:	https://sketchfab.com/3d-models/adidas-ozelia-bd99ae674f724ca690198f22764081f8
+* author:	Romain DI CORATO (https://sketchfab.com/dicorato.romain)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Adidas Ozelia" (https://sketchfab.com/3d-models/adidas-ozelia-bd99ae674f724ca690198f22764081f8) by Romain DI CORATO (https://sketchfab.com/dicorato.romain) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
