@@ -1,0 +1,95 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="LinkedListBehaviour1">
+			<method name="RemoveLink"/>
+			<method name="RemoveLinkDisp"/>
+		</type>
+		<type fullname="MainMenuBehaviour">
+			<method name="Exit"/>
+			<method name="LinkedList"/>
+			<method name="MainMenu"/>
+			<method name="MainMenu"/>
+			<method name="MainMenu"/>
+			<method name="QueueFunc"/>
+			<method name="StackFunc"/>
+		</type>
+		<type fullname="QueueBehaviour">
+			<method name="Add"/>
+			<method name="Remove"/>
+			<method name="RemoveBtn"/>
+		</type>
+		<type fullname="StackBehaviour">
+			<method name="Pop"/>
+			<method name="Push"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.UI" ignoreIfMissing="1">
+		<type fullname="UnityEngine.UI.Selectable">
+			<method name="set_interactable"/>
+			<method name="set_interactable"/>
+		</type>
+	</assembly>
+	<assembly fullname="Vuforia.Unity.Engine" ignoreIfMissing="1">
+		<type fullname="Vuforia.AreaTargetCaptureBehaviour">
+			<method name="CancelTargetGeneration"/>
+			<method name="CancelTargetGeneration"/>
+			<method name="DestroyCapture"/>
+			<method name="DestroyCapture"/>
+			<method name="StartCapture"/>
+			<method name="StartCapture"/>
+			<method name="StopCapture"/>
+			<method name="StopCapture"/>
+		</type>
+		<type fullname="Vuforia.Internal.AreaTargetCaptureInfoPopup">
+			<method name="OnCaptureCreationError"/>
+			<method name="OnCaptureCreationError"/>
+			<method name="OnCaptureStarted"/>
+			<method name="OnCaptureStarted"/>
+			<method name="OnCaptureStatusInfoUpdated"/>
+			<method name="OnCaptureStatusInfoUpdated"/>
+			<method name="OnGenerationCompleted"/>
+			<method name="OnGenerationCompleted"/>
+			<method name="OnGenerationError"/>
+			<method name="OnGenerationError"/>
+		</type>
+		<type fullname="Vuforia.Internal.AreaTargetCaptureOverlayCanvas">
+			<method name="OnCaptureStarted"/>
+			<method name="OnCaptureStarted"/>
+			<method name="OnCaptureStopped"/>
+			<method name="OnCaptureStopped"/>
+			<method name="OnGenerateClicked"/>
+			<method name="OnGenerateClicked"/>
+			<method name="OnGenerationCompleted"/>
+			<method name="OnGenerationCompleted"/>
+			<method name="OnGenerationProgressUpdated"/>
+			<method name="OnGenerationProgressUpdated"/>
+			<method name="OnGenerationRemainingTimeUpdated"/>
+			<method name="OnGenerationRemainingTimeUpdated"/>
+			<method name="OnGenerationStarted"/>
+			<method name="OnGenerationStarted"/>
+			<method name="OnPause"/>
+			<method name="OnPause"/>
+			<method name="OnResume"/>
+			<method name="OnResume"/>
+			<method name="OnTargetNameChanged"/>
+			<method name="OnTargetNameChanged"/>
+			<method name="OnTargetNameSet"/>
+			<method name="OnTargetNameSet"/>
+		</type>
+		<type fullname="Vuforia.SessionRecorderBehaviour">
+			<method name="ShareRecording"/>
+		</type>
+	</assembly>
+</linker>
