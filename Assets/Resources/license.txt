@@ -1,0 +1,11 @@
+Model Information:
+* title:	Puma
+* source:	https://sketchfab.com/3d-models/puma-a6284d5a63ab47b79de90d4b26a99b4f
+* author:	Spenser C Dickerson (https://sketchfab.com/sdimaging)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Puma" (https://sketchfab.com/3d-models/puma-a6284d5a63ab47b79de90d4b26a99b4f) by Spenser C Dickerson (https://sketchfab.com/sdimaging) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
