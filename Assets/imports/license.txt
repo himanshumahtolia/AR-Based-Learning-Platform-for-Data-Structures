@@ -1,0 +1,11 @@
+Model Information:
+* title:	arrow point pendant
+* source:	https://sketchfab.com/3d-models/arrow-point-pendant-e2cafa55bb5541b3a42b76917fc14af0
+* author:	heavy9 (https://sketchfab.com/heavy9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "arrow point pendant" (https://sketchfab.com/3d-models/arrow-point-pendant-e2cafa55bb5541b3a42b76917fc14af0) by heavy9 (https://sketchfab.com/heavy9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
