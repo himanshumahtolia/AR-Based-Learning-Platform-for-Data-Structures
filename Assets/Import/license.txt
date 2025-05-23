@@ -1,0 +1,11 @@
+Model Information:
+* title:	adidas NMD_R1 V2
+* source:	https://sketchfab.com/3d-models/adidas-nmd-r1-v2-616a63d4e75546e6b40cc67dc94529db
+* author:	karelkiers (https://sketchfab.com/karelkiers)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "adidas NMD_R1 V2" (https://sketchfab.com/3d-models/adidas-nmd-r1-v2-616a63d4e75546e6b40cc67dc94529db) by karelkiers (https://sketchfab.com/karelkiers) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
